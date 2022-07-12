@@ -1,0 +1,20 @@
+{
+  "name": "json-server-new",
+  "version": "1.0.0",
+  "description": "Country-State-City Dropdown",
+  "main": "index.js",
+  "scripts": {
+    "start" :"json-server --watch db.json"
+  },
+  "keywords": [
+    "CSC",
+    "CountryStateCity",
+    "Country",
+    "List"
+  ],
+  "author": "Muhammad Jahangir Alam",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
