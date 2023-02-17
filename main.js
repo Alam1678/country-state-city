@@ -26,7 +26,7 @@ async function getAllState(){
      // })
      // .then(data => data)
      // .catch(err => console.log(err))
-    //console.log(data);
+    console.log(data);
     return data;
  }
  console.log(getAllState());
